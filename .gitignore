@@ -6,3 +6,6 @@ __pycache__/
 
 .ruff_cache
 .pytest_cache
+
+se_toolkit_key
+se_toolkit_key.pub
